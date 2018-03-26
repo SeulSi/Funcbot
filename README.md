@@ -14,8 +14,8 @@
 ```
 # 필요한 모듈
 ```
-redis #python3 -m pip install redis
-discord[rewrite] #python3 -m pip install -U git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py[voice]
+pip install redis
+python3 -m pip install -U git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py[voice]
 ```
 
 
